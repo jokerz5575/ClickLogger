@@ -20,6 +20,7 @@ function trackMouseClick(event) {
 }
 
 // Attach event listeners
+// Kiskutya kismacska bbbb
 window.addEventListener('mousemove', trackMouseMovement);
 window.addEventListener('click', trackMouseClick);
 
