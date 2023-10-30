@@ -1,4 +1,6 @@
 <?php
+// // SPDX-License-Identifier: GPL-3.0-or-later
+// // Copyright 2023 Schmidt Peter Daniel
 // Get the CSV data from the request
 $csvData = $_POST['csvData'];
 
